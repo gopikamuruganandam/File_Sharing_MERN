@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+
+.App { 
+  text-align: center;
+  /* overflow: hidden; */
+}
+
+
+
+.inputBox{
+  background-color: white;
+  height: auto;
+  max-width: 60vw;
+  margin: 30vh auto;
+  border-radius: 30px;
+  background-color: rgba(170, 198, 219, 0.935);
+  padding: 10px;
+}
